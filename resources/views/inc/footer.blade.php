@@ -6,7 +6,7 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>FHD</h3>
+                    <h3>ORION VIII</h3>
                     <p>
                         <br>
                         Ilishan-Remo, Ogun State, Nigeria <br><br>
